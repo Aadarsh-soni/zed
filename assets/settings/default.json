@@ -47,6 +47,7 @@
   //         },
   "buffer_line_height": "comfortable",
   // The name of a font to use for rendering text in the UI
+  // The relative width of the right padding of the central pane from the
   // (On macOS) You can set this to ".SysmtemUIFont" to use the system font
   "ui_font_family": "Zed Plex Sans",
   // The OpenType features to enable for text in the UI
